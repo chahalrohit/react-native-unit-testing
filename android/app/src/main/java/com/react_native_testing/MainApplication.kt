@@ -1,4 +1,4 @@
-package com.react_native_testing
+package com.react_native_unit_testing
 
 import android.app.Application
 import com.facebook.react.PackageList
